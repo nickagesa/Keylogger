@@ -6,7 +6,7 @@ This project is for educational purposes and ethical use only.
 Do not deploy or distribute this tool for malicious purposes.
 The author is not responsible for any misuse.
 
-Check out the tutorials to learn how to make the keylogger.
+Check out the tutorials to learn how to build the keylogger from scratch.
 
 ## Installation
 
