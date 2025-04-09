@@ -6,11 +6,9 @@ This Python-based keylogger captures and logs keystrokes to a file named keylog.
 
 ![image](https://github.com/user-attachments/assets/1e723c1e-f286-4fc9-9e84-fad8a5855475)
 
-![image](https://github.com/user-attachments/assets/ef28cb7d-174c-4586-8b7f-34e37f2dad58)
+![image](https://github.com/user-attachments/assets/ab16d5f0-2133-4685-893f-7503e2a39fe3)
 
 ![image](https://github.com/user-attachments/assets/2d606a91-a1bc-43ba-a6df-cd4049c72164)
-
-![image](https://github.com/user-attachments/assets/ab16d5f0-2133-4685-893f-7503e2a39fe3)
 
 
 
