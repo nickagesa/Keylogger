@@ -8,20 +8,23 @@ This Python-based keylogger captures and logs keystrokes to a file named keylog.
 
 <img src="https://github.com/user-attachments/assets/abad1947-3aa2-4573-8d60-b0ab011657fd" width="150" height="160" />
 
-*Ref 2: Keylogger Running in terminal*
+*Ref 2: temp_file/directory created*
 
 <img src="https://github.com/user-attachments/assets/6978678c-fcc4-4014-87f1-b7446279e857" width="150" height="110" />
 
-*Ref 3: Keylogger Running in terminal*
+*Ref 3: keylog.txt file created inside temp_file directory*
 
 <img src="https://github.com/user-attachments/assets/ab16d5f0-2133-4685-893f-7503e2a39fe3" width="215" height="190" />
 
-*Ref 4: Keylogger Running in terminal*
+*Ref 4: email sent to attacker with encrypted keylog.txt file*
 
 <img src="https://github.com/user-attachments/assets/2d606a91-a1bc-43ba-a6df-cd4049c72164" width="600" height="100" />
 
-*Ref 1: Keylogger Running in terminal*
+*Ref 5: keylog_encrypted.txt file opened in attackers email*
 
+<img src="https://github.com/user-attachments/assets/c37e056b-43fd-4473-a9cd-bc43ae267989" width="150" height="160" />
+
+*Ref 5: keylog.txt & temp_files deleted from victims machine*
 
 ⚠️ Legal Disclaimer
 This project is for educational purposes and ethical use only.
