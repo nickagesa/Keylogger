@@ -1,5 +1,9 @@
 # Keylogger
 This Python-based keylogger captures and logs keystrokes to a file named keylog.txt within the temp_files directory. Once the log file exceeds a defined size threshold (default: 200 bytes, configurable in the code), it automatically encrypts the contents and sends the encrypted log, along with the decryption key, to the attacker's specified email address. After successful transmission, the script cleans up by deleting the log file and the directory from the victim's machine, leaving minimal traces of its activity. <a href="https://github.com/nickagesa/Symmetric_Encryption/blob/main/Decryption.py"/>Check out Decryption Process</a> to decrypt file send to the email.
+⚠️ Legal Disclaimer
+This project is for educational purposes and ethical use only.
+Do not deploy or distribute this tool for malicious purposes.
+The author is not responsible for any misuse.
 
 ## Results
 <img src="https://github.com/user-attachments/assets/4a7a06d2-f727-422e-8043-c46c80c134dc" width="150" height="160" />
@@ -14,7 +18,7 @@ This Python-based keylogger captures and logs keystrokes to a file named keylog.
 
 *Ref 3: keylog.txt file created inside temp_file directory*
 
-<img src="https://github.com/user-attachments/assets/ab16d5f0-2133-4685-893f-7503e2a39fe3" width="215" height="190" />
+<img src="https://github.com/user-attachments/assets/ab16d5f0-2133-4685-893f-7503e2a39fe3" width="300" height="325" />
 
 *Ref 4: email sent to attacker with encrypted keylog.txt file*
 
@@ -25,12 +29,6 @@ This Python-based keylogger captures and logs keystrokes to a file named keylog.
 <img src="https://github.com/user-attachments/assets/c37e056b-43fd-4473-a9cd-bc43ae267989" width="150" height="160" />
 
 *Ref 5: keylog.txt & temp_files deleted from victims machine*
-
-⚠️ Legal Disclaimer
-This project is for educational purposes and ethical use only.
-Do not deploy or distribute this tool for malicious purposes.
-The author is not responsible for any misuse.
-
 
 Check out the tutorials to learn how to build the keylogger from scratch.
 
