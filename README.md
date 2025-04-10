@@ -1,5 +1,6 @@
 # Keylogger
-This Python-based keylogger captures and logs keystrokes to a file named keylog.txt within the temp_files directory. Once the log file exceeds a defined size threshold (default: 200 bytes, configurable in the code), it automatically encrypts the contents and sends the encrypted log, along with the decryption key, to the attacker's specified email address. After successful transmission, the script cleans up by deleting the log file and the directory from the victim's machine, leaving minimal traces of its activity. <a href="https://github.com/nickagesa/Symmetric_Encryption/blob/main/Decryption.py"/>Check out Decryption Process</a> to decrypt file send to the email.
+This Python-based keylogger captures and logs keystrokes to a file named keylog.txt within the temp_files directory. Once the log file exceeds a defined size threshold (default: 200 bytes, configurable in the code), it automatically encrypts the contents and sends the encrypted log, along with the decryption key, to the attacker's specified email address. After successful transmission, the script cleans up by deleting the log file and the directory from the victim's machine, leaving minimal traces of its activity. <a href="https://github.com/nickagesa/Symmetric_Encryption/blob/main/Decryption.py"/>Check out Decryption Process</a> to decrypt the file send to the email.
+
 ⚠️ Legal Disclaimer
 This project is for educational purposes and ethical use only.
 Do not deploy or distribute this tool for malicious purposes.
