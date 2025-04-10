@@ -10,7 +10,7 @@ The author is not responsible for any misuse.
 
 *Ref 1: Keylogger Running in terminal*
 
-<img src="https://github.com/user-attachments/assets/abad1947-3aa2-4573-8d60-b0ab011657fd" width="150" height="160" />
+<img src="https://github.com/user-attachments/assets/abad1947-3aa2-4573-8d60-b0ab011657fd" width="155" height="160" />
 
 *Ref 2: temp_file/directory created*
 
@@ -26,7 +26,7 @@ The author is not responsible for any misuse.
 
 *Ref 5: keylog_encrypted.txt file opened in attackers email*
 
-<img src="https://github.com/user-attachments/assets/c37e056b-43fd-4473-a9cd-bc43ae267989" width="150" height="160" />
+<img src="https://github.com/user-attachments/assets/c37e056b-43fd-4473-a9cd-bc43ae267989" width="155" height="160" />
 
 *Ref 5: keylog.txt & temp_files deleted from victims machine*
 
